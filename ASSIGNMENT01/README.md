@@ -15,5 +15,19 @@ Now, we evaluate the 10 heuristics:
 
 | Heuristic & Description| Evaluation| Recommendation for "Bad" Element(s)| Severity of "Bad" Element(s) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| a | b | c | d |
-|a|b|c|d|
+| 1. Visibility of system status | b | c | d |
+| 2. Match between system and the real world | b | c | d |
+| 3. User control and freedom | b | c | d |
+| 4. Consistency and standards | b | c | d |
+| 2. Match between system and the real world | b | c | d |
+| 2. Match between system and the real world | b | c | d |
+| 2. Match between system and the real world | b | c | d |
+| 2. Match between system and the real world | b | c | d |
+| 2. Match between system and the real world | b | c | d |
+| 2. Match between system and the real world | b | c | d |
+| 2. Match between system and the real world | b | c | d |
+| 2. Match between system and the real world | b | c | d |
+| 2. Match between system and the real world | b | c | d |
+| 2. Match between system and the real world | b | c | d |
+
+
