@@ -7,6 +7,11 @@ But the ocean is in danger! Between global warming, plastic pollution, overfishi
 
 Pure Ocean is an endownment fund based out of France that focuses on the protection of biodiversity and fragile marine ecosystems. Pure Ocean has a board of five scientists who invest in projects that have a "strong, innovative dimension, whether technological, ecological or social." It's main purpose is to highlight the problem of endangered under water ecosystems. 
 
-Pure Ocean also promotes racing, sailing and eco-friendly water activities that will promote the saving of the endangered under water society. The Pure Ocean initiative also takes donations to spread awareness to this great project, as they aim to both discover and save the oceans.
+Pure Ocean also promotes racing, sailing and eco-friendly water activities that will promote the saving of the endangered under water society. The Pure Ocean initiative also takes donations to spread awareness to this great project, as they aim to both discover and save the oceans. Attached is a picture of the homepage.
 
 <img src="./PureOcean.png" alt="Pure Ocean alt" title="Pure Ocean">
+
+Now, we evaluate the 10 heuristics:
+
+|a|b|c|d|
+|a|b|c|d|
