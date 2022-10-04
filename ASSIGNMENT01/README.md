@@ -144,20 +144,17 @@ Severity Rating: 2
 
 # First Website: NOAA Fisheries: Protecting Marine Life
 
-https://www.pure-ocean.org/en/
+https://www.fisheries.noaa.gov/protecting-marine-life
 
-Pure Ocean is an endownment fund based out of France that focuses on the protection of biodiversity and fragile marine ecosystems. Pure Ocean has a board of five scientists who invest in projects that have a "strong, innovative dimension, whether technological, ecological or social." It's main purpose is to highlight the problem of endangered under water ecosystems. 
+The NOAA Fishiries association is serving the a website called the Protecting Marine Life. Under the sponsorship of the National Oceanic and Atmospheric Administration as well as the US Department of Commerce, Protecting Marine Life was born into foruition. They evaluate species that are on the verge of extinction as well as species declining in population and conduct research in order to help preserve them. 
 
-Pure Ocean also promotes racing, sailing and eco-friendly water activities that will promote the saving of the endangered under water society. The Pure Ocean initiative also takes donations to spread awareness to this great project, as they aim to both discover and save the oceans. Attached is a picture of the homepage.
+The Protecting Marine Life website has all kinds of information from Fishing, Seafood, to regional divisions of species and dedicated environments that showcase marine life.
 
+<img src="./NOAA.png" alt="NOAA alt" title="NOAA">
 
-
-<img src="./PureOcean.png" alt="Pure Ocean alt" title="Pure Ocean">
-
-Now, we evaluate the 10 heuristics:
+Now, we'll evaluate the 10 heuristics:
 
 We'll evaluate each one based on the Good & Bad 
-https://www.fisheries.noaa.gov/protecting-marine-life
 
 
 
