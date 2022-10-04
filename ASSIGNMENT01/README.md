@@ -15,7 +15,7 @@ Pure Ocean also promotes racing, sailing and eco-friendly water activities that 
 
 Now, we evaluate the 10 heuristics:
 
-| Heuristic & Description | Evaluation | Recommendation for "Bad" Element(s) | Severity of "Bad" Element(s) |
+| Heuristic & Description                                                                                                                                                     | Evaluation                                                                                                                                                                                                                                                                                                                                                                                                                                           | Recommendation for "Bad" Element(s)                                                                                                                                                    | Severity of "Bad" Element(s) |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -- | 
 
 | 1. Visibility of system status (informs users about current status) | 
