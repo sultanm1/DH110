@@ -15,15 +15,17 @@ Pure Ocean also promotes racing, sailing and eco-friendly water activities that 
 
 Now, we evaluate the 10 heuristics:
 
-| Heuristic & Description                                                                                                                                                     | Evaluation                                                                                                                                                                                                                                              aaaaaaaa                                                                                                                                                                                             | Recommendation for "Bad" Element(s)                                                                                                                                                    | Severity of "Bad" Element(s) |
+We'll evaluate each one based on the Good & Bad 
 
 
-| 1. Visibility of system status (informs users about current status) | 
-   Since there is no login or user registration, the website doesn't keep user information. The cookies pop up tells the user that the website fully loaded. Also, in the "Our Projects" tab, the interactive map has points that shrink and grow which tells the user that the website is still active.
-   There isn't any indicators such as progress bars or spinning circles that informs the user of an action being made. For example, in the contact us form I entered an invalid email on purpose but it didn't give me a response it just shaded very light red which isn't adequate communication with the user. 
-   | 
-    For the example brought up, it would have to bring up a specific error such as "Invalid email. Please use the following format: hello@here.com"
-   | 1 |
+## 1. Visibility of system status (informs users about current status)  
+
+# Good: Since there is no login or user registration, the website doesn't keep user information. The cookies pop up tells the user that the website fully loaded. Also, in the "Our Projects" tab, the interactive map has points that shrink and grow which tells the user that the website is still active.
+# Bad: There isn't any indicators such as progress bars or spinning circles that informs the user of an action being made. For example, in the contact us form I entered an invalid email on purpose but it didn't give me a response it just shaded very light red which isn't adequate communication with the user. 
+# Recommendations: For the example brought up, it would have to bring up a specific error such as "Invalid email. Please use the following format: hello@here.com"
+# Severity Rating: 1
+   
+   
 | 2. Match between system and the real world | b | c | d |
 | 3. User control and freedom | b | c | d |
 | 4. Consistency and standards | b | c | d |
