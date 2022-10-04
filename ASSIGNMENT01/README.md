@@ -20,15 +20,15 @@ Now, we evaluate the 10 heuristics:
 We'll evaluate each one based on the Good & Bad 
 
 
-## 1. Visibility of system status (informs users about current status)  
+### 1. Visibility of system status (informs users about current status)  
 
-### Good: Since there is no login or user registration, the website doesn't keep user information. The cookies pop up tells the user that the website fully loaded. Also, in the "Our Projects" tab, the interactive map has points that shrink and grow which tells the user that the website is still active.
+Good: Since there is no login or user registration, the website doesn't keep user information. The cookies pop up tells the user that the website fully loaded. Also, in the "Our Projects" tab, the interactive map has points that shrink and grow which tells the user that the website is still active.
 
-### Bad: There isn't any indicators such as progress bars or spinning circles that informs the user of an action being made. For example, in the contact us form I entered an invalid email on purpose but it didn't give me a response it just shaded very light red which isn't adequate communication with the user.
+Bad: There isn't any indicators such as progress bars or spinning circles that informs the user of an action being made. For example, in the contact us form I entered an invalid email on purpose but it didn't give me a response it just shaded very light red which isn't adequate communication with the user.
 
-### Recommendations: For the example brought up, it would have to bring up a specific error such as "Invalid email. Please use the following format: hello@here.com"
+Recommendations: For the example brought up, it would have to bring up a specific error such as "Invalid email. Please use the following format: hello@here.com"
 
-### Severity Rating: 1
+Severity Rating: 1
 
 - - - - - - - - - - - 
 
@@ -68,21 +68,34 @@ Severity Rating: 2
 
 - - - - - - - - - - - 
 
-### 4. Error Prevention
+### 5. Error Prevention (reducing error prone conditions)
 
-Good: Really appreciate the standard in the color scheme throught the whole website. (Dark blue, light blue and white) 
+Good: None
 
-Bad: The shop tab has a totally different design and header which confuses the user, making it seem like a whole other website instead of one tab embedded in the other. Another issue I have is the non-standerdization of fonts throughout the home pages and different tabs, even though the color scheme is consistent the webpage seems to be lacking in this area.
+Bad: Since there isn't much room for user input. The only issue I found was when filling the contact form and navigating to another tab it doesn't warn the user about unsaved work. 
 
-Recommendations: Have shop tab be similar to all the other tabs as well as standerdization with fonts.
+Recommendations: Warn user about unsaved work.
 
-Severity Rating: 2
+Severity Rating: 1
 
 - - - - - - - - - - - 
    
 
-| 5. Error prevention | b | c | d |
-| 6. Recognition rather than recall | b | c | d |
+### 6. Recognition rather than recall (easily accessible and viewable)
+
+Good: The sub headers are mostly well distributed in order to make sure the user knows where to go. 
+
+Bad: "Our Supporters" tab includes both Supporters and Funders which isn't particularly self explanatory and pretty ambiguous.
+
+Recommendations: Add Funders tab.
+
+Severity Rating: 2
+
+- - - - - - - - - - -
+
+### 7. Flexibility and efficiency of use
+
+
 | 7. Flexibility and efficiency of use | b | c | d |
 | 8. Aesthetic and minimalist design | b | c | d |
 | 9. Help users recognize, diagnose, and recover from errors | b | c | d |
