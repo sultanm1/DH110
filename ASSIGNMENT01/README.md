@@ -129,18 +129,17 @@ Severity Rating: 1
 
 - - - - - - - - - - -
 
-### 9. Help and Documentation (helps users navigate the site)
+### 10. Help and Documentation (helps users navigate the site)
   
-Good: The only sort of positive thing here is the search bar, however it is not that efficient because it gives back cluttered data that isn't formatted well.
+Good: The only sort of positive thing here is the search bar, however it is not that efficient because it gives back cluttered data that isn't formatted well. There is only a french number and an email. 
 
-Bad: There isn't any page that helps navigate the site since it has so much information. The only
+Bad: There isn't any page that helps navigate the site since it has so much information. No FAQs that may answer more on how to get involved with these projects other than the projects site or the contact form. The contact us form's headers are also in French. 
 
-Recommendations: For the example brought up, it would have to bring up a specific error such as "Invalid email. Please use the following format: hello@here.com"
+Recommendations: Add a FAQ and have a way to make the projects more accessible.
 
-Severity Rating: 1
+Severity Rating: 2
 
 - - - - - - - - - - -
 
-| 10. Help and documentation | b | c | d | 
 
 
