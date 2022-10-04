@@ -158,7 +158,7 @@ We'll evaluate each one based on the Good & Bad
 
 ### 1. Visibility of system status (informs users about current status)  
 
-Good: Since there is no login or user registration, the website doesn't keep user information. The cookies pop up tells the user that the website fully loaded. Also, in the "Our Projects" tab, the interactive map has points that shrink and grow which tells the user that the website is still active.
+Good: Since there is no login or user registration, the website doesn't keep user information. In the homepage, there are interactive boxes that get bigger size when hovered over. Also, under the navigation bar the mouse turns into a pointer position and the text is underlined. 
 
 Bad: There isn't any indicators such as progress bars or spinning circles that informs the user of an action being made. 
 
@@ -170,9 +170,9 @@ Severity Rating: 1
 
 ### 2. Match between system and the real world (website informs the user of information in an appropriate manner)  
 
-Good: The tab on the top of the page is named pretty well, as well as most of the sub sections. 
+Good: The options on the nav bar on the top of the page are named pretty well.
 
-Bad: A huge note on this is that the shop is all in French. Even though the regular website has both French and English, the website only includes English. Also, the News tab is as a header option bus is also a sub header under the Donate tab which is weird.
+Bad: Most of the 
 
 Recommendations: Enable English in the shop, and remove the News sub header.
 
