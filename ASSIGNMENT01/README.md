@@ -16,8 +16,8 @@ Pure Ocean also promotes racing, sailing and eco-friendly water activities that 
 Now, we evaluate the 10 heuristics:
 
 | Heuristic & Description| Evaluation| Recommendation for "Bad" Element(s)| Severity of "Bad" Element(s) |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| 1. Visibility of system status (informs users about current status)| 
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+<!-- | 1. Visibility of system status (informs users about current status)| 
    Since there is no login or user registration, the website doesn't keep user information. The cookies pop up tells the user that the website fully loaded. Also, in the "Our Projects" tab, the interactive map has points that shrink and grow which tells the user that the website is still active.
    There isn't any indicators such as progress bars or spinning circles that informs the user of an action being made. For example, in the contact us form I entered an invalid email on purpose but it didn't give me a response it just shaded very light red which isn't adequate communication with the user. 
    | 
@@ -31,6 +31,6 @@ Now, we evaluate the 10 heuristics:
 | 7. Flexibility and efficiency of use | b | c | d |
 | 8. Aesthetic and minimalist design | b | c | d |
 | 9. Help users recognize, diagnose, and recover from errors | b | c | d |
-| 10. Help and documentation | b | c | d |
+| 10. Help and documentation | b | c | d | -->
 
 
