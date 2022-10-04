@@ -18,12 +18,14 @@ Now, we evaluate the 10 heuristics:
 We'll evaluate each one based on the Good & Bad 
 
 
-## 1. Visibility of system status (informs users about current status)  
+# 1. Visibility of system status (informs users about current status)  
 
-# Good: Since there is no login or user registration, the website doesn't keep user information. The cookies pop up tells the user that the website fully loaded. Also, in the "Our Projects" tab, the interactive map has points that shrink and grow which tells the user that the website is still active.
-# Bad: There isn't any indicators such as progress bars or spinning circles that informs the user of an action being made. For example, in the contact us form I entered an invalid email on purpose but it didn't give me a response it just shaded very light red which isn't adequate communication with the user. 
-# Recommendations: For the example brought up, it would have to bring up a specific error such as "Invalid email. Please use the following format: hello@here.com"
-# Severity Rating: 1
+## Good: Since there is no login or user registration, the website doesn't keep user information. The cookies pop up tells the user that the website fully loaded. Also, in the "Our Projects" tab, the interactive map has points that shrink and grow which tells the user that the website is still active.
+
+## Bad: There isn't any indicators such as progress bars or spinning circles that informs the user of an action being made. For example, in the contact us form I entered an invalid email on purpose but it didn't give me a response it just shaded very light red which isn't adequate communication with the user.
+
+## Recommendations: For the example brought up, it would have to bring up a specific error such as "Invalid email. Please use the following format: hello@here.com"
+## Severity Rating: 1
    
    
 | 2. Match between system and the real world | b | c | d |
