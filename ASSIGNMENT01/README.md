@@ -25,8 +25,34 @@ We'll evaluate each one based on the Good & Bad
 ### Bad: There isn't any indicators such as progress bars or spinning circles that informs the user of an action being made. For example, in the contact us form I entered an invalid email on purpose but it didn't give me a response it just shaded very light red which isn't adequate communication with the user.
 
 ### Recommendations: For the example brought up, it would have to bring up a specific error such as "Invalid email. Please use the following format: hello@here.com"
+
 ### Severity Rating: 1
+
+- - - - - - - - - - - 
+
+## 2. Match between system and the real world (website informs the user of information in an appropriate manner)  
+
+### Good: The tab on the top of the page is named pretty well, as well as most of the sub sections. 
+
+### Bad: A huge note on this is that the shop is all in French. Even though the regular website has both French and English, the website only includes English. Also, the News tab is as a header option bus is also a sub header under the Donate tab which is weird.
+
+### Recommendations: Enable English in the shop, and remove the News sub header.
+
+### Severity Rating: 3
+
+- - - - - - - - - - - 
    
+## 3. Match between system and the real world (website informs the user of information in an appropriate manner)  
+
+### Good: The tab on the top of the page is named pretty well, as well as most of the sub sections. 
+
+### Bad: A huge note on this is that the shop is all in French. Even though the regular website has both French and English, the website only includes English. Also, the News tab is as a header option bus is also a sub header under the Donate tab which is weird.
+
+### Recommendations: Enable English in the shop, and remove the News sub header.
+
+### Severity Rating: 3
+
+- - - - - - - - - - - 
    
 | 2. Match between system and the real world | b | c | d |
 | 3. User control and freedom | b | c | d |
