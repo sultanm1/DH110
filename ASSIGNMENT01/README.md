@@ -24,9 +24,9 @@ We'll evaluate each one based on the Good & Bad
 
 Good: Since there is no login or user registration, the website doesn't keep user information. The cookies pop up tells the user that the website fully loaded. Also, in the "Our Projects" tab, the interactive map has points that shrink and grow which tells the user that the website is still active.
 
-Bad: There isn't any indicators such as progress bars or spinning circles that informs the user of an action being made. For example, in the contact us form I entered an invalid email on purpose but it didn't give me a response it just shaded very light red which isn't adequate communication with the user.
+Bad: There isn't any indicators such as progress bars or spinning circles that informs the user of an action being made. 
 
-Recommendations: For the example brought up, it would have to bring up a specific error such as "Invalid email. Please use the following format: hello@here.com"
+Recommendations: Have more interactive tools. 
 
 Severity Rating: 1
 
@@ -93,12 +93,54 @@ Severity Rating: 2
 
 - - - - - - - - - - -
 
-### 7. Flexibility and efficiency of use
+### 7. Flexibility and efficiency of use (website is tailored to both novices and experts) 
+  
+Good: The basic landing page shows most of the information straight up and has a good breakdown of topics.
 
+Bad: Expert users may want to get to the different projects quicker instead of having to click onto the projects tab. 
 
-| 7. Flexibility and efficiency of use | b | c | d |
-| 8. Aesthetic and minimalist design | b | c | d |
-| 9. Help users recognize, diagnose, and recover from errors | b | c | d |
+Recommendations: Would be a great improvement if there was a quicker way to show the projects on the home page and have some sort of shorcuts for experienced users.
+
+Severity Rating: 1
+
+- - - - - - - - - - -
+
+### 8. Aesthetic and Minimalist Design (relevant information and highlighted essentials only)
+  
+Good: None.
+
+Bad: The website is a mess with this in particular. The homepage has so much going on and feels like information is very cluttered. Would be a great improvement if there was a quicker way to show the projects on the home page and have some sort of shorcuts for experienced users. A youtube video with an embedded scroll through news headers is not the best for this heuristic. In the news tab, there is both a side bar and a main bar which contain the same articles which is very confusing. Other examples throughout the site display some redundancy as well.
+
+Recommendations: Unclutter the website by concealing info and distributing it appropriately. Have the pages become more concise and have a better directory. 
+
+Severity Rating: 3
+
+- - - - - - - - - - -
+
+### 9. Help users recognize, diagnose, and recover from errors (helps identify error messages and bring solutions)
+  
+Good: None.
+
+Bad: In the contact us form I entered an invalid email on purpose but it didn't give me a response it just shaded very light red which isn't adequate communication with the user.
+
+Recommendations: For the example brought up, it would have to bring up a specific error such as "Invalid email. Please use the following format: hello@here.com"
+
+Severity Rating: 1
+
+- - - - - - - - - - -
+
+### 9. Help and Documentation (helps users navigate the site)
+  
+Good: The only sort of positive thing here is the search bar, however it is not that efficient because it gives back cluttered data that isn't formatted well.
+
+Bad: There isn't any page that helps navigate the site since it has so much information. The only
+
+Recommendations: For the example brought up, it would have to bring up a specific error such as "Invalid email. Please use the following format: hello@here.com"
+
+Severity Rating: 1
+
+- - - - - - - - - - -
+
 | 10. Help and documentation | b | c | d | 
 
 
